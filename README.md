@@ -5,3 +5,4 @@ this is python framwork same as wordpress for php
 - [x] start project
 - [ ]
 
+# how to run
